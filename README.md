@@ -1,2 +1,2 @@
  ## Live Link
-Hosted in Netlify -> [AuthFirebaseContext](https://joyful-mochi-2c8903.netlify.app).
+Hosted in Netlify -> [AuthFirebaseContext](https://glittery-torte-e9be02.netlify.app).
